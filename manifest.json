@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "file": "web-0.3.6.zip",
-  "notes": "323123",
-  "builtAt": "2026-09-25T16:24:22.504Z",
-  "size": 179013,
-  "sha256": "e1f1927dd935cf42b6b3744f2124b11791f3eb86f43dd7afd227569a6f188756"
+  "version": "0.3.7",
+  "file": "web-0.3.7.zip",
+  "notes": "更新面板重做：检查更新 → 一键更新 → 重启就是最新版",
+  "builtAt": "2026-09-25T17:10:35.769Z",
+  "size": 178938,
+  "sha256": "bbd9b7c49e69458cf311876eb5a1756b310cd8edc6f6bdcd04b7aa4ccebb5bf5"
 }
