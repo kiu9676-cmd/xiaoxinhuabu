@@ -1,8 +1,8 @@
 {
-  "version": "0.3.7",
-  "file": "web-0.3.7.zip",
-  "notes": "更新面板重做：检查更新 → 一键更新 → 重启就是最新版",
-  "builtAt": "2026-09-25T17:10:35.769Z",
-  "size": 178938,
-  "sha256": "bbd9b7c49e69458cf311876eb5a1756b310cd8edc6f6bdcd04b7aa4ccebb5bf5"
+  "version": "0.3.8",
+  "file": "web-0.3.8.zip",
+  "notes": "一键更新后自动重启（5 秒倒计时可打断）；更新地址彻底写死，界面上不再有任何填写入口",
+  "builtAt": "2026-09-25T17:31:50.486Z",
+  "size": 179152,
+  "sha256": "4558cefb1782472ed874ef207af2c5f6f91df4cb1e20bf87ecb0edd22d38156f"
 }
