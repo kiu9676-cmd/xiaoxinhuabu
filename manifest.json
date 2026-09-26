@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
-  "file": "web-0.4.1.zip",
-  "notes": "修改软件logo\n",
-  "builtAt": "2026-09-26T05:18:28.928Z",
-  "size": 551034,
-  "sha256": "0a9e41a44ed05321900acb2a3605c93144d07328af9814e399b4311e58478bdc"
+  "version": "0.4.2",
+  "file": "web-0.4.2.zip",
+  "notes": "去除了图生图双节点，，以及增加了节点的灵动性",
+  "builtAt": "2026-09-26T06:21:33.286Z",
+  "size": 551140,
+  "sha256": "1ff265c0eff7584ca3d309e89447eb85b2b4bea38e35fb4c4f4b32b8e1f2c983"
 }
